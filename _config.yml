@@ -1,7 +1,7 @@
 title: Anonymous Function
 description: A Meetup group for engineering leaders
 
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 destination: _site
 paginate: 5
