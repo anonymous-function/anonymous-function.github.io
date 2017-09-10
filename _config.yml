@@ -2,12 +2,3 @@ title: Anonymous Function
 description: A Meetup group for engineering leaders
 
 theme: jekyll-theme-minimal
-
-destination: _site
-paginate: 5
-permalink: /:year/:month/:title/
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  hard_wrap: false
