@@ -7,11 +7,3 @@ Our community is open to absolutely everybody working within software engineerin
 Anonymous Function events do not promote any particular leadership style but, instead, provide an environment in which engineers can learn for themseves which tools and techniques match their personal style.
 
 ## Upcoming Meetups
-
-## Be Part of the Discussion
-
-- Slack
-- Mailing List
-- Meetup Group
-- Facebook
-- Twitter
