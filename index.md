@@ -5,3 +5,13 @@
 Our community is open to absolutely everybody working within software engineering; programmers, product specialists, tech writers... The community is a success because we open-mindedly share and learn from each others' experiences: experienced leaders are crucial to the group because they bring a career of best practice and lessons learned; new leaders bring a fresh perspective and modern techniques.
 
 Anonymous Function events do not promote any particular leadership style but, instead, provide an environment in which engineers can learn for themseves which tools and techniques match their personal style.
+
+## Upcoming Meetups
+
+## Be Part of the Discussion
+
+- Slack
+- Mailing List
+- Meetup Group
+- Facebook
+- Twitter
