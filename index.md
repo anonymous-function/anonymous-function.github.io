@@ -17,6 +17,11 @@ style but, instead, provide an environment in which engineers can
 learn for themseves which tools and techniques match their personal
 style.
 
+## News
+
+- 16/09/2017 -- Created new [Events Repo](https://github.com/anonymous-function/events) so that community members can suggest/request events.
+- 10/09/2017 -- Anonymous Function community is launched!
+
 ## Upcoming Meetups
 
-- 02/10 -- [Kickoff: Designing the Group and its Path Forward](https://www.meetup.com/Anonymous-Function/events/243247860/)
+- 02/10/2017 -- [Kickoff: Designing the Group and its Path Forward](https://www.meetup.com/Anonymous-Function/events/243247860/)
