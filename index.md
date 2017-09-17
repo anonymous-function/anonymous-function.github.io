@@ -14,7 +14,7 @@ leaders bring a fresh perspective and modern techniques.
 
 Anonymous Function events do not promote any particular leadership
 style but, instead, provide an environment in which engineers can
-learn for themseves which tools and techniques match their personal
+learn for themselves which tools and techniques match their personal
 style.
 
 ## News
