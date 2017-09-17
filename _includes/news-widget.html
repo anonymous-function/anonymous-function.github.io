@@ -1,0 +1,6 @@
+<ul>
+  {% assign sorted = (site.news | sort: 'date') | reverse %}
+  {% for item in sorted limit: 5 %}
+  <li>{{ item.date | date: "%d/%m/%Y" }} – {{ item.title }}</li>
+  {% endfor %}
+</ul>

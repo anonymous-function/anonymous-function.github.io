@@ -19,8 +19,7 @@ style.
 
 ## News
 
-- 16/09/2017 -- Created new [Events Repo](https://github.com/anonymous-function/events) so that community members can suggest/request events.
-- 10/09/2017 -- Anonymous Function community is launched!
+{% include news-widget.html %}
 
 ## Upcoming Meetups
 
