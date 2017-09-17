@@ -18,4 +18,4 @@ exclude: ['Gemfile', 'Gemfile.lock']
 collections:
   news:
     output: true
-    permalink: /m/:path/
+    permalink: /news/:year/:month/:title/
