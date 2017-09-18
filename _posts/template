@@ -1,0 +1,10 @@
+---
+title: "Some Title"
+date: 2017-09-17
+author_name : Your Name
+author_url : /team/paul
+author_avatar: paul
+show_avatar : true
+feature_image: feature-fire
+---
+Some Content
