@@ -23,4 +23,8 @@ style.
 
 ## Upcoming Meetups
 
+- 10/2017 -- First public meetup, details to follow soon!
+
+## Past Meetups
+
 - 02/10/2017 -- [Kickoff: Designing the Group and its Path Forward](https://www.meetup.com/Anonymous-Function/events/243247860/)
