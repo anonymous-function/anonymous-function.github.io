@@ -1,8 +1,8 @@
-# Welcome to the Anonymous Function Community
+# Welcome to the Lead in Tech Community
 
-**Anonymous Function** is a meetup group for people working in
+**Lead in Tech** is a meetup group for people working in
 technology wanting to level-up their leadership skills. Through a
-series of talks, workshops, games and mentoring, Anonymous Function
+series of talks, workshops, games and mentoring, Lead in Tech
 aims to help you progress your career into engineering leadership.
 
 Our community is open to absolutely everybody working within software
@@ -12,7 +12,7 @@ each others' experiences: experienced leaders are crucial to the group
 because they bring a career of best practice and lessons learned; new
 leaders bring a fresh perspective and modern techniques.
 
-Anonymous Function events do not promote any particular leadership
+Lead in Tech events do not promote any particular leadership
 style but, instead, provide an environment in which engineers can
 learn for themselves which tools and techniques match their personal
 style.
