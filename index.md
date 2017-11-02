@@ -23,7 +23,7 @@ style.
 
 ## Upcoming Meetups
 
-- 10/2017 -- First public meetup, details to follow soon!
+- 07/12/2017 -- [Leading Towards Diversity: Conducting Interviews For Hiring The Right People](https://www.meetup.com/lead-in-tech/events/244760705/)
 
 ## Past Meetups
 
